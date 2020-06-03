@@ -1,0 +1,473 @@
+
+/* header-area starts */
+.theory-header{
+overflow:hidden;
+}
+.theory-time{
+padding:22px 0;
+}
+.theory-time i{
+color:#0bf72cff;
+font-size:36px;
+}
+.theory-header-detail{
+padding:10px 0;
+}
+.header-title{
+margin-left:-9px;
+font-size:20px;
+text-transform:uppercase;
+}
+.header-detail{
+margin:-5px 0 0 -9px;
+font-style:italic;
+}
+.theory-menu{
+margin-left:10%;
+background:#272e30ff;
+padding:10px;
+width:90%;
+border-top-left-radius: 100px;
+}
+.theory-menu a{
+padding:20px 10px;
+text-transform:uppercase;
+color:#fff;
+font-size:12px;
+transition:.5.s;
+}
+.theory-menu a:hover{
+color:#0bf72cff;
+text-decoration:none;
+
+}
+.theory-menu ul li:hover{
+border-bottom:2px solid orange;
+}
+.theory-menu input{
+background:transparent;
+border:none;
+width:140px;
+}
+
+.theory-menu i{
+margin-left:80px;
+color:#fff;
+}
+/* header-area-ends */
+/* main css starts */
+.theory-main{
+background-image:url("Download/books-389392_1280.jpg");
+background-repeat:no-repeat;
+background-size:cover;
+background-position:center;
+text-align:center;
+color:#fff;
+}
+.theory-main-title{
+padding:150px 0 300px;
+}
+.theory-main-title p{
+text-transform:capitalize;
+}
+.theory-main-title h1{
+margin-top:-10px;
+font-weight:bold;
+font-family:lato;
+text-transform:uppercase;
+}
+.button{
+padding:10px;
+border:1px solid #fff;
+background:transparent;
+color:#000;
+margin-top:20px;
+text-transform:uppercase;
+transition:.7s;
+}
+.button:hover{
+background:orange;
+color:#000;
+border-radius:20px;
+}
+/* main css ends */
+
+/* About css starts */
+.theory-about{
+padding:50px 0;
+background:#02a43bff;
+text-align:center;
+color:#fff;
+}
+.theory-about p{
+font-size:12px;
+text-transform:capitalize;
+}
+.theory-about h4{
+font-weight:bold;
+text-transform:uppercase;
+font-size:18px;
+}
+.theory-about hr{
+width:20%;
+background-color:#fff;
+height:1px;
+}
+.theory-about input{
+padding:5px 15px;
+background:transparent;
+border:1px solid #fff;
+color:#fff;
+transition:.5s;
+}
+.theory-about input:hover{
+background:orange;
+color:#000;
+border-radius:20px;
+}
+.theory-ser{
+border-right:1px solid #000;
+}
+.theory-ser:nth-child(3){
+border-right:none;
+}
+/* About css ends */
+
+/* Theory def starts*/
+.theory-def{
+
+}
+.theory-def-img{
+height:540px;
+position:relative;
+}
+.theory-def-overlay{
+width:100%;
+height:100%;
+background:rgba(250,251,251,.9);
+position:absolute;
+top:0;
+left:0%;
+}
+.theory-all{
+text-align:center;
+padding:150px 0 ;
+}
+.theory-all h5{
+text-align:left;
+font-size:13px;
+text-transform:uppercase;
+font-weight:bold;
+}
+.theory-all p{
+font-size:12px;
+text-align:left;
+}
+.theory-icon{
+display:flex;
+text-align:center;
+margin:0px 0;
+color:#000;
+font-size:55px;
+}
+.theory-one{
+margin-top:-5px;
+width:10%;
+height:1px;
+background:green;
+}
+.theory-two{
+margin-top:-10px;
+width:15%;
+height:1px;
+background:green;
+}
+.theory-def-head{
+margin:0 auto;
+padding-bottom:60px;
+width:70%;
+}
+/* Theory def ends*/
+
+/*Events css starts*/
+.theory-events{
+position:relative;
+}
+.theory-evevts-img{
+position:relative;
+}
+.theory-events-overlay{
+width:100%;
+height:100%;
+background:rgba(39,46,48,.9);
+position:absolute;
+top:0;
+left:0%;
+}
+.theory-events-head{
+padding:100px 0 0;
+}
+.theory-events-head ul{
+margin-left:90%;
+padding:30px 0 10px;
+}
+.theory-events-head li{
+padding:1px 10px;
+background:green;
+margin-left:5px;
+}
+.theory-events-head li i{
+text-align:right;
+}
+.theory-des{
+background:#fff;
+margin-left:-14px;
+padding:20px 0 20px 30px;
+}
+.theory-des p{
+font-size:12px;
+}
+.theory-des h5{
+padding:20px 0;
+color:green;
+text-transform:uppercase;
+font-size:14px;
+}
+.theory-events-head h2{
+font-weight:bold;
+text-transform:uppercase;
+color:#fff;
+text-align:center;
+}
+.one{
+width:10%;
+background-color:green;
+height:1px;
+}
+.two{
+width:15%;
+background-color:green;
+height:1px;
+margin-top:-10px;
+}
+.theory-img-overlay{
+margin-left:4%;
+width:92%;
+height:15%;
+background:rgba(0,0,0,.9);
+position:absolute;
+top:85%;
+left:0%;
+}
+.theory-img-overlay p i{
+color:green;
+margin:3px 12px;
+font-size:22px;
+}
+.theory-img-overlay p{
+color:#fff;
+}
+/*Events css ends*/
+
+/*Top-Services css starts*/
+.theory-top-ser{
+padding:80px 0;
+position:relative;
+display:flex;
+}
+.theory-ser-head{
+padding:0 0 20px 0;
+margin:0 auto;
+width:60%;
+text-align:center;
+}
+.theory-ser-head .span {
+width:50%;
+}
+
+.theory-ser-course{
+padding:20px 0 0;
+background:#272e30ff;
+text-align:center;
+color:#fff;
+}
+.theory-ser-course p{
+font-size:13px;
+}
+.theory-date{
+font-size:10px;
+color:#fff;
+}
+
+.theory-ser-one{
+margin-top:-5px;
+width:10%;
+height:1px;
+background:green;
+}
+.theory-ser-two{
+margin-top:-10px;
+width:15%;
+height:1px;
+background:green;
+}
+.theory-topser-overlay{
+text-align:left;
+margin-left:7%;
+width:86%;
+height:10%;
+background:rgba(39,46,48,.7);
+position:absolute;
+top:39%;
+left:0%;
+overflow:hidden;
+}
+.theory-topser-overlay i{
+float:left;
+overflow:hidden;
+font-size:8px;
+}
+.theory-topser-overlay p{
+float:left;
+overflow:hidden;
+margin:10px;
+margin-top:-4px;
+}
+.theory-ser-image{
+width:10%;
+height:10%;
+background:rgba(39,46,48,0);
+position:absolute;
+top:0%;
+left:80%;
+}
+.theory-ser-image img{
+border-radius:40%;
+}
+/*Top-services css Ends*/
+
+/*Top-student-story css Starts*/
+
+.theory-video-area{
+text-align:center;
+color:#fff;
+position:relative;
+}
+.theory-video-area img{
+height:250px;
+}
+.theory-student-story{
+padding:40px 0;
+margin:0 auto;
+background:rgba(0,0,0,.9);
+width:100%;
+height:100%;
+position:absolute;
+top:0;
+left:0;
+}
+.theory-student-story h2{
+font-size:35px;
+text-transform:uppercase;
+padding:2px 0;
+}
+.theory-student-story p{
+
+}
+.theory-student-story i{
+font-size:45px;
+color:#0bf72cff;
+transition:.7s;
+}
+.theory-student-story i:hover{
+font-size:55px;
+color:blue;
+}
+.theory-story{
+margin:0 auto;
+width:60%;
+}
+/*Top-student-story css Ends*/
+
+/*campus life css starts*/
+.theory-portfolio-image{
+position:relative;
+margin-bottom:30px;
+}
+.theory-portfolio-overlay{
+height:100%;
+width:100%;
+background:rgba(72,186,255,.8);
+position:absolute;
+top:0%;
+left:0%;
+display:flex;
+text-align:center;
+align-items:center;  
+opacity:0;
+transition:.5s;
+}
+.theory-portfolio-overlay ul{
+list-style:none;
+display:flex;
+margin:0 auto;
+padding:10px;
+}
+.theory-portfolio-overlay ul li{
+color:#fff;
+margin-left:4px;
+padding:0 5px;
+border:1px solid #ffff;
+background:#000;
+}
+.theory-portfolio-image:hover .theory-portfolio-overlay
+{
+opacity:1;
+}
+
+/*campus life css ends*/
+
+
+/*students blog css starts*/
+.theory-top-stu{
+padding:40px 0;
+background:#daddddb3;
+color:#000;
+}
+.theory-stu-image{
+position:relative;
+}
+.theory-stu input{
+background:transparent;
+padding:5px 15px;
+border:1px solid silver;
+color:#0bf72cff;
+transition:.5s;
+}
+.theory-stu input:hover{
+background:orange;
+color:#000;
+border-radius:20px;
+}
+.theory-stu-overlay{
+height:10%;
+width:100%;
+background:rgba(40,40,40,.9);
+position:absolute;
+top:48%;
+left:0%;
+display:flex;
+text-align:center;
+align-items:center;  
+transition:.5s;
+}
+.theory-stu-overlay li{
+color:#fff;
+padding:10px;
+margin:0 5px;
+}
+.theory-stu-image:hover .theory-stu-overlay{
+background:green;
+}
+/*students blog css ends*/
+
